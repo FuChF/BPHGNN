@@ -48,3 +48,21 @@ Execute the following command to run the node classification task:
 Execute the following command to run the link prediction task:
 
 * `python Link_Prediction.py`
+
+## Citation
+If you find our paper and code useful in your research, please consider giving a star and citation :)
+
+@article{10.1145/3650046,
+author = {Fu, Chaofan and Yu, Pengyang and Yu, Yanwei and Huang, Chao and Zhao, Zhongying and Dong, Junyu},
+title = {MHGCN+: Multiplex Heterogeneous Graph Convolutional Network},
+year = {2024},
+issue_date = {June 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {15},
+number = {3},
+journal = {ACM Trans. Intell. Syst. Technol.},
+month = apr,
+articleno = {51},
+numpages = {25},
+}
