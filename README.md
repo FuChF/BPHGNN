@@ -52,30 +52,22 @@ Execute the following command to run the link prediction task:
 ## Citation
 If you find our paper and code useful in your research, please consider giving a star and citation :)
 
-@article{10.1145/3650046,
+@inproceedings{10.1145/3580305.3599441,
 
-author = {Fu, Chaofan and Yu, Pengyang and Yu, Yanwei and Huang, Chao and Zhao, Zhongying and Dong, Junyu},
+author = {Fu, Chaofan and Zheng, Guanjie and Huang, Chao and Yu, Yanwei and Dong, Junyu},
 
-title = {MHGCN+: Multiplex Heterogeneous Graph Convolutional Network},
+title = {Multiplex Heterogeneous Graph Neural Network with Behavior Pattern Modeling},
 
-year = {2024},
-
-issue_date = {June 2024},
+year = {2023},
 
 publisher = {Association for Computing Machinery},
 
-address = {New York, NY, USA},
+pages = {482–494},
 
-volume = {15},
+numpages = {13},
 
-number = {3},
+location = {Long Beach, CA, USA},
 
-journal = {ACM Trans. Intell. Syst. Technol.},
-
-month = apr,
-
-articleno = {51},
-
-numpages = {25},
+series = {KDD '23}
 
 }
